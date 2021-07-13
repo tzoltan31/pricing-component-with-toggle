@@ -1,1 +1,1 @@
-Pricing component with toggle challenge for frontendmentor.io ( React, Tailwindcss)
+Pricing component with toggle challenge for frontendmentor.io ( React, Tailwindcss )
